@@ -1,0 +1,13 @@
+# private strategy docs - never publish
+My-Founder-Context.md
+PROJECT_STATE.md
+AgentLedger-Whitepaper-v0.1.pdf
+Trailblaze-Whitepaper-v0.2.pdf
+Trailblaze-Whitepaper-v0.3.pdf
+statement.html
+interviews.md
+
+# junk
+__pycache__/
+.DS_Store
+outreach.md
